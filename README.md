@@ -6,8 +6,8 @@
 ## 🌱 I’m currently learning new programming languages and frameworks, such as Python and Java. 
 ## 💞️ I’m looking to collaborate on any project that would help me grow as a web developer. ##
 ## 📫 How to reach me: 
--### linkedIn: https://www.linkedin.com/in/noelia-cossio-a46963131/
--### E-mail: noeliacos8@gmail.com
+### -linkedIn: https://www.linkedin.com/in/noelia-cossio-a46963131/
+### -E-mail: noeliacos8@gmail.com
 
 <!---
 noeliacossio/noeliacossio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
